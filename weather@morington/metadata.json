@@ -1,0 +1,7 @@
+{
+    "uuid": "weather@morington",
+    "name": "Weather",
+    "max-instances": "1",
+    "description": "Desklet Weather",
+    "version": 1
+}

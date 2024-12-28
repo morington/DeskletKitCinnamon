@@ -1,0 +1,7 @@
+{
+    "uuid": "time@morington",
+    "name": "Time Desklet",
+    "max-instances": "1",
+    "description": "Desklet Time and Date",
+    "version": 1
+}

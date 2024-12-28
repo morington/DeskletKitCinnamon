@@ -1,0 +1,7 @@
+{
+    "uuid": "ramusage@morington",
+    "name": "CPU Usage Desklet",
+    "max-instances": "1",
+    "description": "Displays RAM utilization.",
+    "version": 1
+}

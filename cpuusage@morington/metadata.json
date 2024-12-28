@@ -1,0 +1,7 @@
+{
+    "uuid": "cpuusage@morington",
+    "name": "CPU Usage Desklet",
+    "max-instances": "1",
+    "description": "Displays CPU utilization.",
+    "version": 1
+}

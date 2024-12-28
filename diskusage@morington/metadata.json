@@ -1,0 +1,7 @@
+{
+    "uuid": "diskusage@morington",
+    "name": "Disk Usage Desklet",
+    "max-instances": "10",
+    "description": "Displays free disk space and links to common folders.",
+    "version": 1
+}
